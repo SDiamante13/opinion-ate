@@ -1,4 +1,4 @@
-import RestaurantsList from "./RestaurantList";
+import RestaurantsList from "./components/RestaurantList";
 
 const RestaurantScreen = () => {
   return (
